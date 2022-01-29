@@ -1,2 +1,3 @@
-# eLearning_Application
-MERN Application with basic CRUD operators
+ELEARNERS
+npm install
+npm start 

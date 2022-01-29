@@ -108,8 +108,8 @@ class AdminLogin extends Component {
                     <div>
                         <img src='https://uxwing.com/wp-content/themes/uxwing/download/18-education-school/online-course.png' 
                         height='300' width='350'></img>
-                        <button type="button" class="btn btn-primary" href="http://localhost:3000/AddCourse" >Add courses
-                        </button> </div>
+                        <a type="button" class="btn btn-primary" href="http://localhost:3000/AddCourse" >Add courses
+                        </a> </div>
                         <div>
                             <img src='https://cdn4.iconfinder.com/data/icons/online-course/512/course-information-business-detail-512.png' 
                             height='400' width='350' ></img>

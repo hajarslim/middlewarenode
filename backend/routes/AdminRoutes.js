@@ -94,9 +94,9 @@ router.get('/getAllPackages', (req, res) => {
 //Get all messages
 router.get('/getAllMessages', (req, res) => {
     const msg = Message.find().then(msgs => {
-        res.send(msg);
+        res.send(msgs);
     })
-    console.log(msg)
+    console.log(msgs)
 })
 //update course details by id
 router.put('/updatePackage/:id', (req, res) => {

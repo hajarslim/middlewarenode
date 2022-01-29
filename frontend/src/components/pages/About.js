@@ -120,7 +120,7 @@ export default class About extends Component {
                   
                    
                         <form style={{ marginLeft: 300, marginTop: 0 }}>
-                            <a href="http://localhost:3000/about">< MDBBtn color="blue" style={{ padding: 5 ,fontSize:20}} > Contact now</MDBBtn></a>
+                            <a href="http://localhost:3000/Contact">< MDBBtn color="blue" style={{ padding: 5 ,fontSize:20}} > Contact now</MDBBtn></a>
                             
                         </form>
                     
